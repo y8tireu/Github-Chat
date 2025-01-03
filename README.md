@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <h1>Github Chat</h1>
+  <h1>              Github Chat</h1>
 </p>
 
 ## How it Works
