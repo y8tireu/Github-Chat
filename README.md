@@ -20,4 +20,4 @@
 - **Close the Issue**: When the conversation or discussion is concluded, close the issue.  
   - Select "Close issue" to mark the conversation as resolved or finished.  
 
-> **Tip**: You can reference other issues or pull requests in your conversation by mentioning their number (e.g., #123), or tag other users by using @username to get their attention.
+> **Pro Tip**: You can reference other issues or pull requests in your conversation by mentioning their number (e.g., #123), or tag other users by using @username to get their attention.
